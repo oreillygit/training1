@@ -17,4 +17,7 @@ This project requires a computer and internet.
 ## food
 Who will pay for all this food
 
+## cleaning
+Companies?
+
                 
